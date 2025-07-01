@@ -1,8 +1,6 @@
 <!-- TYPING INTRO HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=40&lines=Hi+there+👋+I'm+Oveshak!;Full+Stack+Developer+from+Bangladesh;MERN+%2B+Django+Enthusiast+💻;Let’s+Build+Something+Awesome+Together+🚀" alt="Typing SVG" />
-</h1>
-
+<h1 align="center">✨ Hey, I'm Oveshak — Full Stack Developer 🚀</h1
+                                                                
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oveshak&label=Profile+Views&color=FD6E0A&style=flat-square" alt="profile views"/>
 </p>
@@ -91,12 +89,11 @@
 
 <!-- FINAL QUOTE -->
 ### 💬 Developer Wisdom
+ _"First, solve the problem. Then, write the code."_ — John Johnson
 
-> _“Programs must be written for people to read, and only incidentally for machines to execute.”_  
-> — **Harold Abelson**
 
 ---
 
 <p align="center">
-  🚀 Crafted with Markdown & Style by <b>Oveshak</b> — MERN + Django Dev 💻
+  🚀 Crafted with Markdown & Style by <b>Oveshek</b> — MERN + Django Dev 💻
 </p>
