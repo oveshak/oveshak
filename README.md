@@ -1,79 +1,82 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Oveshak</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
+<!-- HEADER -->
+<h1 align="center">✨ Hey, I'm Oveshek — Full Stack Developer 🚀</h1>
+<h3 align="center">MERN 💻 | Django 🐍 | Cloud ☁️ | Tailwind 💡</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oveshak&label=Profile%20views&color=0e75b6&style=flat" alt="oveshak" />
+  <img src="https://komarev.com/ghpvc/?username=oveshak&label=Profile+Views&color=blueviolet&style=flat-square" alt="oveshak" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+<!-- ABOUT -->
+### 🙋‍♂️ About Me
 
-- 💻 I’m currently working on **MERN & Django projects**
-- 🌱 I’m learning **AI tools integration** and **DevOps basics**
-- 💬 Ask me about **React, Node.js, Express, Django, MongoDB, REST API**
-- 📫 Reach me: [oveshak@github](https://github.com/oveshak)
-- ⚡ Fun fact: I love to debug at night 🌙
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-</p>
+- 🔭 Currently building **smart AI-integrated platforms**
+- 🌱 Exploring **DevOps, Serverless & Scalable Systems**
+- 💬 Ask me about **Django, React, MongoDB, Tailwind, Cloudinary**
+- 🧠 Learning **System Architecture & Cloud Deployment**
+- 📫 Let's connect: [GitHub/oveshak](https://github.com/oveshak)
 
 ---
 
-### 📈 GitHub Stats
+<!-- STACK / TOOLS -->
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oveshak&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=oveshak&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveshak&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,django,python,mongodb,postgres,tailwind,html,css,git,docker,vscode,figma" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+<!-- STATS -->
+### 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://github.com/oveshak" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oveshak&show_icons=true&theme=radical&border_radius=10" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=oveshak&theme=radical&border_radius=10" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveshak&layout=compact&theme=radical&border_radius=10" height="165"/>
+</div>
+
+---
+
+<!-- PROJECTS -->
+### 🚀 Featured Projects
+
+| 🧠 Project | 🛠 Tech | 📄 Description |
+|-----------|--------|----------------|
+| **Job Recruit AI** | MERN, AI, Cloudinary | Smart AI form generator + CSV analyzer |
+| **Online LMS** | Django, Alpine.js, Tailwind | Interactive Learning Management System |
+| **InvestX** | MERN, Wallet, Referral | Investment app with custom wallet & analytics |
+
+---
+
+<!-- CONNECT -->
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/oveshak">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📚 Featured Projects
+<!-- QUOTE -->
+### 💡 Dev Philosophy
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| **Smart Recruiter** | React, Node.js, MongoDB, AI | AI-driven recruitment platform |
-| **LMS Platform** | Django, Alpine.js, Tailwind CSS | Full-featured Learning Management System |
-| **Investing App** | MERN, Cloudinary, Referral System | Secure online investment dashboard |
+> _"First, solve the problem. Then, write the code."_ — John Johnson
 
 ---
 
-> 🚀 *Let's build something awesome together!*
+<p align="center">
+  🧑‍💻 Built with passion using Markdown, GitHub Stats & Open Source Love ❤️
+</p>
