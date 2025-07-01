@@ -1,82 +1,103 @@
-<!-- HEADER -->
-<h1 align="center">✨ Hey, I'm Oveshek — Full Stack Developer 🚀</h1>
-<h3 align="center">MERN 💻 | Django 🐍 | Cloud ☁️ | Tailwind 💡</h3>
+<!-- HEADER SECTION WITH TYPING ANIMATION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi+I'm+Oveshak+👋;Full+Stack+Developer+💻;MERN+%2B+Django+Specialist+🚀;Love+building+AI-powered+apps+🧠" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oveshak&label=Profile+Views&color=blueviolet&style=flat-square" alt="oveshak" />
+  <img src="https://komarev.com/ghpvc/?username=oveshak&label=Profile+Views&color=orange&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
-<!-- ABOUT -->
+<!-- ABOUT ME -->
 ### 🙋‍♂️ About Me
 
-- 🔭 Currently building **smart AI-integrated platforms**
-- 🌱 Exploring **DevOps, Serverless & Scalable Systems**
-- 💬 Ask me about **Django, React, MongoDB, Tailwind, Cloudinary**
-- 🧠 Learning **System Architecture & Cloud Deployment**
-- 📫 Let's connect: [GitHub/oveshak](https://github.com/oveshak)
+- 💻 Full Stack Developer | Passionate about clean architecture and scalable systems
+- ⚙️ Specialized in **MongoDB, Express.js, React, Node.js, Django**
+- 🔭 Currently building: AI-powered recruiter & LMS platforms
+- 🎨 UI Stylist using **Tailwind CSS, Figma**
+- ☁️ Learning: **Cloud deployment, microservices, CI/CD**
+- 📬 Contact me: [GitHub](https://github.com/oveshak)
 
 ---
 
-<!-- STACK / TOOLS -->
-### 🛠️ Tech Stack
+<!-- TECH STACK -->
+### 🧰 Languages, Frameworks & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,django,python,mongodb,postgres,tailwind,html,css,git,docker,vscode,figma" />
+#### 🔥 MERN Stack Expertise
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+#### 🎯 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+#### 🧩 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-<!-- STATS -->
-### 📊 GitHub Analytics
+<!-- STATS SECTION -->
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oveshak&show_icons=true&theme=radical&border_radius=10" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=oveshak&theme=radical&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oveshak&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=oveshak&theme=tokyonight&border_radius=10" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveshak&layout=compact&theme=radical&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveshak&layout=compact&theme=tokyonight&border_radius=10" height="165"/>
 </div>
 
 ---
 
-<!-- PROJECTS -->
-### 🚀 Featured Projects
+<!-- FEATURED PROJECTS -->
+### 🚀 Projects Showcase
 
-| 🧠 Project | 🛠 Tech | 📄 Description |
-|-----------|--------|----------------|
-| **Job Recruit AI** | MERN, AI, Cloudinary | Smart AI form generator + CSV analyzer |
-| **Online LMS** | Django, Alpine.js, Tailwind | Interactive Learning Management System |
-| **InvestX** | MERN, Wallet, Referral | Investment app with custom wallet & analytics |
+| 🔧 Project | 🛠 Tech Stack | 📄 Description |
+|-----------|----------------|----------------|
+| **Job Recruit AI** | MERN, AI, Cloudinary | AI-powered job form generator + CSV applicant analysis |
+| **LMS Platform** | Django, Tailwind, Alpine.js | Learning app with video lessons, milestones & tracking |
+| **InvestX** | Node.js, MongoDB, Multer | Wallet-based secure investment platform |
 
 ---
 
 <!-- CONNECT -->
-### 🌍 Connect With Me
+### 🌍 Let's Connect
 
 <p align="center">
   <a href="https://github.com/oveshak">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- QUOTE -->
-### 💡 Dev Philosophy
+<!-- FOOTER QUOTE -->
+### 💡 Dev Quote
 
-> _"First, solve the problem. Then, write the code."_ — John Johnson
+> _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_ — Martin Fowler
 
 ---
 
-<p align="center">
-  🧑‍💻 Built with passion using Markdown, GitHub Stats & Open Source Love ❤️
-</p>
+<p align="center">💻 Built with ❤️ by <strong>Oveshak</strong> — MERN & Django Developer 🌐</p>
