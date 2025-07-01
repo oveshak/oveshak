@@ -1,52 +1,48 @@
-<!-- HEADER SECTION WITH TYPING ANIMATION -->
+<!-- TYPING INTRO HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi+I'm+Oveshak+👋;Full+Stack+Developer+💻;MERN+%2B+Django+Specialist+🚀;Love+building+AI-powered+apps+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=40&lines=Hi+there+👋+I'm+Oveshak!;Full+Stack+Developer+from+Bangladesh;MERN+%2B+Django+Enthusiast+💻;Let’s+Build+Something+Awesome+Together+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oveshak&label=Profile+Views&color=orange&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=oveshak&label=Profile+Views&color=FD6E0A&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
-<!-- ABOUT ME -->
-### 🙋‍♂️ About Me
+<!-- ABOUT -->
+### 👨‍💻 About Me
 
-- 💻 Full Stack Developer | Passionate about clean architecture and scalable systems
-- ⚙️ Specialized in **MongoDB, Express.js, React, Node.js, Django**
-- 🔭 Currently building: AI-powered recruiter & LMS platforms
-- 🎨 UI Stylist using **Tailwind CSS, Figma**
-- ☁️ Learning: **Cloud deployment, microservices, CI/CD**
-- 📬 Contact me: [GitHub](https://github.com/oveshak)
+- 💡 Passionate about turning **ideas into full-stack applications**
+- 🔥 Specialized in **MERN Stack**, **Django**, **Tailwind**, and **Cloudinary**
+- 🧠 Currently learning **Docker, CI/CD, and AI Integration**
+- ✨ Always refining: code quality, UX/UI, and system performance
+- 📫 Connect with me: [GitHub](https://github.com/oveshak)
 
 ---
 
-<!-- TECH STACK -->
-### 🧰 Languages, Frameworks & Tools
+<!-- TECH STACK SECTION -->
+### 🧰 Tech Stack & Tools
 
-#### 🔥 MERN Stack Expertise
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-#### 🎯 Languages & Frameworks
+#### ⚙️ Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-#### 🧩 Tools & Platforms
+#### 🛠 Databases, Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -55,33 +51,33 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oveshak&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=oveshak&theme=tokyonight&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oveshak&show_icons=true&theme=radical&border_radius=15&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=oveshak&theme=radical&border_radius=15" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveshak&layout=compact&theme=tokyonight&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveshak&layout=compact&theme=radical&border_radius=15" height="165"/>
 </div>
 
 ---
 
 <!-- FEATURED PROJECTS -->
-### 🚀 Projects Showcase
+### 🚀 Highlighted Projects
 
-| 🔧 Project | 🛠 Tech Stack | 📄 Description |
-|-----------|----------------|----------------|
-| **Job Recruit AI** | MERN, AI, Cloudinary | AI-powered job form generator + CSV applicant analysis |
-| **LMS Platform** | Django, Tailwind, Alpine.js | Learning app with video lessons, milestones & tracking |
-| **InvestX** | Node.js, MongoDB, Multer | Wallet-based secure investment platform |
+| 💡 Project | ⚙️ Stack | 📄 Description |
+|-----------|----------|----------------|
+| **🔎 Job Recruit AI** | MERN + AI + Cloudinary | Auto-generates job forms and filters candidates via AI |
+| **📚 LMS Platform** | Django + Tailwind + Alpine.js | Video-based interactive learning system |
+| **💰 InvestX** | MERN + Wallet System | Secure investment platform with KYC & referral tracking |
 
 ---
 
 <!-- CONNECT -->
-### 🌍 Let's Connect
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/oveshak">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/oveshak" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -93,11 +89,14 @@
 
 ---
 
-<!-- FOOTER QUOTE -->
-### 💡 Dev Quote
+<!-- FINAL QUOTE -->
+### 💬 Developer Wisdom
 
-> _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_ — Martin Fowler
+> _“Programs must be written for people to read, and only incidentally for machines to execute.”_  
+> — **Harold Abelson**
 
 ---
 
-<p align="center">💻 Built with ❤️ by <strong>Oveshak</strong> — MERN & Django Developer 🌐</p>
+<p align="center">
+  🚀 Crafted with Markdown & Style by <b>Oveshak</b> — MERN + Django Dev 💻
+</p>
