@@ -13,7 +13,7 @@
 
 <!-- ABOUT -->
 <h3 align="center" style="color: #FD6E0A;">👨‍💻 About Me</h3>
-<p align="center" style="font-size: 1.2em; line-height: 1.6;">
+<p align="center" style="font-size: 1.6em; line-height: 1.6;">
   - 💡 Passionate about turning <b>ideas into full-stack applications</b><br>
   - 🔥 Specialized in <b>MERN Stack</b>, <b>Django</b>, <b>Tailwind</b>, and <b>Cloudinary</b><br>
   - 🧠 Currently learning <b>Docker, CI/CD, and AI Integration</b><br>
