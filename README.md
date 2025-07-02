@@ -64,29 +64,143 @@
 <hr style="border-top: 2px solid #FD6E0A; width: 80%; margin: 20px auto;">
 
 <!-- FEATURED PROJECTS -->
-<h3 align="center" style="color: #FD6E0A;">🚀 Highlighted Projects</h3>
-<table align="center" style="border-collapse: collapse; width: 80%;">
-  <tr style="background-color: #FD6E0A; color: white;">
-    <th style="padding: 10px; text-align: left;">💡 Project</th>
-    <th style="padding: 10px; text-align: left;">⚙️ Stack</th>
-    <th style="padding: 10px; text-align: left;">📄 Description</th>
-  </tr>
-  <tr style="background-color: #f4f4f4;">
-    <td style="padding: 10px;">🔎 Job Recruit AI</td>
-    <td style="padding: 10px;">MERN + AI + Cloudinary</td>
-    <td style="padding: 10px;">Auto-generates job forms and filters candidates via AI</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">📚 LMS Platform</td>
-    <td style="padding: 10px;">Django + Tailwind + Alpine.js</td>
-    <td style="padding: 10px;">Video-based interactive learning system</td>
-  </tr>
-  <tr style="background-color: #f4f4f4;">
-    <td style="padding: 10px;">💰 InvestX</td>
-    <td style="padding: 10px;">MERN + Wallet System</td>
-    <td style="padding: 10px;">Secure investment platform with KYC & referral tracking</td>
-  </tr>
+<div align="center">
+
+### 🌟 Live Production Applications
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🗺️ BD Mouza
+**Modern Mouza Map Platform**
+- Download Mouza map PDF/JPG files
+- User-friendly interface
+- Fast and reliable service
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D4AA?style=for-the-badge)](https://bdmouza.com/)
+[![Tech Stack](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://bdmouza.com/)
+
+</td>
+<td width="50%">
+
+#### 🛒 Kretaa
+**SASS E-commerce Automation**
+- Fast payment processing
+- Secure shipping experience
+- Seller-friendly interface
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge)](https://www.kretaa.xyz/)
+[![Tech Stack](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.kretaa.xyz/)
+
+</td>
+</tr>
 </table>
+
+### 💼 Enterprise Solutions
+
+<table>
+<tr>
+<td width="50%">
+
+#### 👥 HRMaster
+**Comprehensive HR Management System**
+- Streamlined HR operations
+- Business process automation
+- Complete employee management
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4285F4?style=for-the-badge)](https://hrmaster.vercel.app/)
+[![API Docs](https://img.shields.io/badge/📚_API_Docs-FF9500?style=for-the-badge)](https://hrapi.vitasoftsolutions.com/redoc/)
+
+</td>
+<td width="50%">
+
+#### 🏗️ ErpCons
+**Real Estate Development Solution**
+- Comprehensive business operations
+- Process optimization
+- Development company focused
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-8B5CF6?style=for-the-badge)](https://erpcons.vercel.app/login/viscon@gmail.com/viscon)
+[![API Docs](https://img.shields.io/badge/📚_API_Docs-FF9500?style=for-the-badge)](https://erpcons.vitasoftsolutions.com/redoc/)
+
+</td>
+</tr>
+</table>
+
+### 📚 Documentation & Learning Platforms
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📖 Vitadoc
+**Project Documentation Tool**
+- Streamlined documentation process
+- Project clarity and organization
+- Team collaboration features
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-10B981?style=for-the-badge)](https://vitadoc.vitasoftsolutions.com/)
+[![API Docs](https://img.shields.io/badge/📚_API_Docs-FF9500?style=for-the-badge)](https://documentapi.vitasoftsolutions.com/redoc/)
+
+</td>
+<td width="50%">
+
+#### 🎓 Future's Devs
+**Learning Management System**
+- Course creation platform
+- Student engagement tools
+- Interactive learning experiences
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-F59E0B?style=for-the-badge)](https://www.futuresdevs.com/)
+[![API Docs](https://img.shields.io/badge/📚_API_Docs-FF9500?style=for-the-badge)](https://api.futuresdevs.com/redoc/)
+
+</td>
+</tr>
+</table>
+
+### 📱 Mobile & Specialized Applications
+
+<table>
+<tr>
+<td width="33%">
+
+#### 💪 CrossFitAssemble
+**Gym Management App**
+- Class booking system
+- Package purchases
+- Fitness guidance
+
+[![Google Play](https://img.shields.io/badge/📱_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tawakkulit.crossfit)
+
+</td>
+<td width="33%">
+
+#### 🤝 Lendmee
+**P2P Lending Platform**
+- Item lending management
+- Monetize belongings
+- Peer-to-peer system
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-EC4899?style=for-the-badge)](https://lendmee.xyz/)
+
+</td>
+<td width="33%">
+
+#### 🏠 BCL Portfolio
+**Real Estate Website**
+- Dynamic property showcase
+- Enhanced user experience
+- Engagement optimization
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0EA5E9?style=for-the-badge)](https://bismillahconsortiumltd.com/)
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <hr style="border-top: 2px solid #FD6E0A; width: 80%; margin: 20px auto;">
 
