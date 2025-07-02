@@ -1,9 +1,15 @@
 <!-- TYPING INTRO HEADER -->
 <h1 align="center" style="font-size: 3em; color: #FD6E0A;">✨ Hey, I'm Oveshak — Full Stack Developer 🚀</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ Oveshek + Kundu + Toton +%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;ERP+Solutions+Specialist+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oveshak&label=Profile+Views&color=FD6E0A&style=flat-square" alt="profile views"/>
 </p>
+
+
 
 <hr style="border-top: 2px solid #FD6E0A; width: 80%; margin: 20px auto;">
 
@@ -92,10 +98,10 @@
   <a href="https://github.com/oveshak" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:oveshaktoton9999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/oveshek-kundu-toton-39862724b/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
