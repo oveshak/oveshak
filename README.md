@@ -1,9 +1,7 @@
 <!-- TYPING INTRO HEADER -->
-<h1 align="center" style="font-size: 3em; color: #FD6E0A;">✨ Hey, I'm Oveshak — Full Stack Developer 🚀</h1>
+<h1 align="center" style="font-size: 3em; color: #FD6E0A;">✨ Hey, I'm Oveshek — Full Stack Developer 🚀</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ Oveshek + Kundu + Toton +%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;ERP+Solutions+Specialist+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
-</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oveshak&label=Profile+Views&color=FD6E0A&style=flat-square" alt="profile views"/>
